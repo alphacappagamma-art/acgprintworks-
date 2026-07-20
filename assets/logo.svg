@@ -1,1 +1,6 @@
-
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img">
+<rect width="1200" height="800" rx="180" fill="#102019"/>
+<path d="M210 575 455 195h145L365 575z" fill="#c7e66a"/>
+<path d="M510 575 730 225h130L650 575z" fill="#fff"/>
+<path d="M740 575 935 270h105L860 575z" fill="#1f5b43"/>
+</svg>
