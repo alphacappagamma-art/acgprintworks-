@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#dfe9e0"/><stop offset="1" stop-color="#c9dccd"/></linearGradient></defs>
+<rect width="1200" height="800" rx="60" fill="url(#bg)"/>
+<circle cx="1010" cy="115" r="65" fill="#c7e66a"/>
+<rect x="185" y="190" width="825" height="280" rx="28" fill="#f9faf7" stroke="#102019" stroke-width="12"/>
+<rect x="245" y="245" width="530" height="120" rx="8" fill="#102019"/>
+<rect x="800" y="245" width="150" height="120" rx="8" fill="#dbe6dd"/>
+<circle cx="875" cy="305" r="25" fill="#1f5b43"/>
+<rect x="155" y="450" width="890" height="55" rx="20" fill="#1f5b43"/>
+<path d="M235 505h730v125H235z" fill="#fff"/>
+<path d="M235 505h730v52H235z" fill="#c7e66a"/>
+<path d="M300 630v90M900 630v90" stroke="#102019" stroke-width="25"/>
+<path d="M270 720h95M835 720h95" stroke="#102019" stroke-width="25" stroke-linecap="round"/>
+<path d="M365 557h470v73H365z" fill="#e8eee8"/>
+<text x="600" y="612" text-anchor="middle" font-family="Arial,sans-serif" font-size="38" font-weight="700" fill="#1f5b43">PRINT + CUT</text>
+</svg>
